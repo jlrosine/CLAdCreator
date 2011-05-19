@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraigslistAdCreator", "CraigslistAdCreator\CraigslistAdCreator.csproj", "{B8B7F6A2-CFBB-4C4C-A4CB-C77888BCEC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraigslistAdCreator.Tests", "CraigslistAdCreator.Tests\CraigslistAdCreator.Tests.csproj", "{20270CB2-CE6A-44C5-A1B7-AC6376130749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B7F6A2-CFBB-4C4C-A4CB-C77888BCEC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B7F6A2-CFBB-4C4C-A4CB-C77888BCEC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B7F6A2-CFBB-4C4C-A4CB-C77888BCEC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B7F6A2-CFBB-4C4C-A4CB-C77888BCEC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20270CB2-CE6A-44C5-A1B7-AC6376130749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20270CB2-CE6A-44C5-A1B7-AC6376130749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20270CB2-CE6A-44C5-A1B7-AC6376130749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20270CB2-CE6A-44C5-A1B7-AC6376130749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
